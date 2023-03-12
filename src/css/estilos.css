@@ -98,6 +98,7 @@ main:after {
 	animation: mudarImagem 0.7s;
 }
 
+
 .carrossel .imagem.ativa {
 	display: block;
 }
